@@ -1,1 +1,1 @@
-A readme file for debugging task
+A readme file for C - Variadic functions task
